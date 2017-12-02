@@ -1,7 +1,11 @@
 {
-  "name": "authentication-app",
+  "name": "react-boilerplate",
   "version": "1.0.0",
-  "description": "A react application authentication",
+  "description": "A Basic Project Setup to Start with React, React Router DOM, React Redux, Redux Saga, React JSS, etc",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamhimadri/react-boilerplate"
+  },
   "engines": {
     "npm": ">=4",
     "node": ">=7"
